@@ -1,0 +1,10 @@
+
+=== Mon Aug 29 19:21:56 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.psdimporter@2.1.11
+  com.unity.collab-proxy@1.14.13
+  com.unity.recorder@2.5.7
